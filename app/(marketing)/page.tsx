@@ -10,11 +10,11 @@ export default function Home() {
     });
   return (
     <Container as="section" className="py-12">
-      <div className="py-24 md:pt-32 md:pb-24">
+      {/* <div className="py-24 md:pt-32 md:pb-24">
         <H1Heading className="animate-in slide-in-from-left duration-500">
-          Crafting Custom Digital Strategies & Web Experiences
+          Teaching
         </H1Heading>
-      </div>
+      </div> */}
       <BlogSection posts={posts} />
       <AboutSection />
     </Container>

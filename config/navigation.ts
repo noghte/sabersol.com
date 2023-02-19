@@ -3,18 +3,18 @@ import { TNavItems } from "types";
 export const navigation: TNavItems = {
   mainNav: [
     {
-      title: "Insights",
-      href: "/insights",
+      title: "Blog",
+      href: "/blog",
     },
     {
-      title: "Info",
-      href: "/info",
+      title: "About",
+      href: "/about",
     },
   ],
   footerNav: [
-    { title: "Twitter", href: "https://twtiter.com/EkomEnyong" },
-    { title: "LinkedIn", href: "https://linkedin.com/in/ekomenyong" },
-    { title: "Github", href: "https://github.com/ekomenyong" },
-    { title: "Email", href: "mailto:hello@ekomenyong.com" },
+    { title: "Twitter", href: "https://twtiter.com/saber_soley" },
+    { title: "LinkedIn", href: "https://www.linkedin.com/in/sabersol/" },
+    { title: "Github", href: "https://github.com/noghte" },
+    { title: "Email", href: "mailto:postorder@gmail.com" },
   ],
 };

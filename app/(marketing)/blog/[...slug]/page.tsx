@@ -69,7 +69,7 @@ export default function SingleBlogPost({ params }: ISingleBlogPost) {
               dottedLine
               animatedUnderline
               href={`https://twitter.com/intent/tweet?text=${post.title}
-                &url=https://ekomenyong.com/insights/${post.slugAsParams}`}
+                &url=https://sabersol.com/blog/${post.slugAsParams}`}
             >
               discuss it on Twitter
             </KommyLink>

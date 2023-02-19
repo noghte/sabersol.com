@@ -4,33 +4,28 @@ export default function AboutSection() {
   return (
     <Container as="section">
       <h2 className="mt-20 mb-6 max-w-5xl font-bold leading-8 lg:leading-10">
-        An SEO Manager who has spent the last 10 years helping brands increase leads
-        and organic traffic through digital strategy and high-quality content.
+        Yin and Yang of Machine Learning
       </h2>
       <div className="flex flex-col items-start justify-center space-y-6 text-xl text-dark lg:flex-row lg:flex-nowrap lg:justify-between lg:space-x-16 lg:space-y-0">
-        <div className="max-w-lg">
+        <div>
           <p>
-            I'm a results-focused digital marketer and a self-taught web designer and
-            developer. With a background primarily working at digital agencies, I
-            understand how frustrating it can be to implement organic search and
-            content strategies. My data-driven marketing efforts focus on
-            architecting positive user experiences and converting web visitors into
-            customers. Where I differ from your average marketer is my passion for
-            building scalable websites that users love and agile teams can easily
-            manage.
+          In interpretable machine learning, Yin and Yang can refer to the balance between accuracy and interpretability. 
+          Machine learning models that are highly accurate (Yang) can sometimes be complex and difficult to interpret, while models that are highly interpretable (Yin) may not always have high accuracy. 
+          Finding the right balance between accuracy and interpretability is important for ensuring that machine learning models are trustworthy and can be used effectively in real-world applications. 
+          Striving for a balance between accuracy and interpretability in machine learning is crucial for developing models that are both effective and transparent.
+          </p>
+          <br />
+          <p>
+          I totaly disagree with the above definition! The balance between accuracy and interpretability is irrelevant in current complex deep learning models.
+          Instead of decreasing the complexity of the model, we can use the model to explain itself.
           </p>
         </div>
-        <div className="max-w-lg">
+        {/* <div className="max-w-lg">
           <p>
-            I work closely with brands to build custom digital strategies or web
-            experiences so they can connect deeply with their audiences. Whether I
-            optimize the structure of your website, your targeted keywords, or the
-            type of content you create, every choice is intentional. Each decision is
-            layered on top of one another to shape and execute a custom digital
-            strategy. What does this mean for you? Extendible, performant, and
-            user-focused digital experiences.
+            I totaly disagree with the above definition. I think that the balance between accuracy and interpretability is irrelevant in current complex deep learning models. 
+           
           </p>
-        </div>
+        </div> */}
       </div>
     </Container>
   );

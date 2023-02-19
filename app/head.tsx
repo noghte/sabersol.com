@@ -1,31 +1,31 @@
 export default function Head() {
   return (
     <>
-      <title>Ekom Enyong » Creating Digital Strategies & Web Experiences</title>
+      <title>Saber Soleymani</title>
       <meta charSet="utf-8" />
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta
         name="description"
-        content="Ekom Enyong is a professional SEO and Content marketer, web designer, and web developer based in Charlotte."
+        content="Saber Soleymani is a visiting assistant professor at the Georgia State University."
       />
       <meta
         property="og:title"
-        content="Ekom Enyong » Creating Digital Strategies & Web Experiences"
+        content="Saber Soleymani's Website for Teaching and Research"
       />
       <meta
         property="og:description"
-        content="Ekom Enyong is a professional SEO and Content marketer, web designer, and web developer based in Charlotte."
+        content="Saber Soleymani is a visiting assistant professor at the Georgia State University."
       />
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://ekomenyong.com/" />
-      <meta property="og:image" content="https://ekomenyong.com/og.jpg" />
+      <meta property="og:url" content="https://sabersol.com/" />
+      <meta property="og:image" content="https://sabersol.com/saber.jpg" />
       <meta
         name="twitter:title"
-        content="Ekom Enyong » Creating Digital Strategies & Web Experiences"
+        content="Saber Soleymani's Twitter"
       />
       <meta name="twitter:card" content="summary_large_card" />
-      <meta name="twitter:site" content="@ekomenyong" />
-      <meta name="twitter:image" content="https://ekomenyong.com/og.jpg" />
+      <meta name="twitter:site" content="@saber_soley" />
+      <meta name="twitter:image" content="https://pbs.twimg.com/profile_images/876681524787126272/90WREIxg_400x400.jpg" />
       <meta name="robots" content="index, follow" />
       <link rel="icon" href="/favicons/favicon.ico" />
       <link
@@ -46,7 +46,7 @@ export default function Head() {
         href="/favicons/favicon-32x32.png"
       />
       <link rel="manifest" href="/favicons/site.webmanifest" />
-      <link rel="canonical" href="https://ekomenyong.com/" />
+      <link rel="canonical" href="https://sabersol.com/" />
     </>
   );
 }

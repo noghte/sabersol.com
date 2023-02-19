@@ -1,6 +1,6 @@
 module.exports = {
-  siteUrl: "https://ekomenyong.com",
-  exclude: ["/404", "/insights/seo-guide-jamstack-react-development"],
+  siteUrl: "https://sabersol.com",
+  exclude: ["/404", "/blog/seo-guide-jamstack-react-development"],
   generateRobotsTxt: true,
   robotsTxtOptions: {
     policies: [

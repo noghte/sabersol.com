@@ -1,12 +1,12 @@
 import { ISiteConfig } from "types";
 
 export const site: ISiteConfig = {
-  plausibleDataDomain: "ekomenyong.com",
+  plausibleDataDomain: "sabersol.com",
   seo: {
-    title: "Ekom Enyong | Creating Digital Strategies & Web Experiences",
+    title: "Saber Soleymani",
     description:
-      "Ekom Enyong is a professional SEO and Content marketer, web designer, and web developer based in Charlotte.",
+      "Saber Soleymani is a visiting assistant professor at Georgia State University.",
     twitterCard: "summary_large_card",
-    twitterHandle: "@EkomEnyong",
+    twitterHandle: "@saber_soley",
   },
 };

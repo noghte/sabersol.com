@@ -5,19 +5,19 @@ interface IPageMeta {
   slug: string;
 }
 
-const url: string = "https://ekomenyong.com";
+const url: string = "https://sabersol.com";
 
 export default function PageMeta({ title, description, slug }: IPageMeta) {
   return (
     <>
-      <title>{title ? `${title} » EkomEnyong.com` : site.seo.title}</title>
+      <title>{title ? `${title} » sabersol.com` : site.seo.title}</title>
       <meta charSet="utf-8" />
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta
         name="description"
         content={description ? description : site.seo.description}
       />
-      <meta property="og:title" content={`${title} | EkomEnyong.com`} />
+      <meta property="og:title" content={`${title} | sabersol.com`} />
       <meta property="og:description" content={description} />
       <meta property="og:type" content="website" />
       <meta property="og:url" content={url + `/${slug}`} />

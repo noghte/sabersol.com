@@ -16,38 +16,38 @@ const nextConfig = {
       {
         source: "/posts/how-to-setup-free-postgresql-database-on-railway-app",
         destination:
-          "/insights/how-to-setup-free-postgresql-database-on-railway-app",
+          "/blog/how-to-setup-free-postgresql-database-on-railway-app",
         permanent: true,
       },
       {
         source: "/posts/rebuilding-blog-nextjs-mdx-tailwindcss",
-        destination: "/insights/redesign-next-js-13-blog-contentlayer-typescript",
+        destination: "/blog/redesign-next-js-13-blog-contentlayer-typescript",
         permanent: true,
       },
       {
-        source: "/about",
-        destination: "/info",
+        source: "/about-me",
+        destination: "/about",
         permanent: true,
       },
       {
         source: "/posts",
-        destination: "/insights",
+        destination: "/blog",
         permanent: true,
       },
       {
         source: "/posts/react-nextjs-developer-tech-stack-tools",
-        destination: "/insights",
+        destination: "/blog",
         permanent: true,
       },
       {
         source:
           "/posts/from-wordpress-to-jamstack-why-self-taught-devloper-switched",
-        destination: "/insights",
+        destination: "/blog",
         permanent: true,
       },
       {
         source: "/posts/core-web-vitals-understanding-lcp-fid-and-cls",
-        destination: "/insights",
+        destination: "/blog",
         permanent: true,
       },
     ];

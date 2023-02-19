@@ -27,7 +27,7 @@ export default function BlogIndexPage() {
     <Container className="py-24">
       <div className="flex max-w-4xl flex-col items-start justify-center animate-in slide-in-from-left duration-500">
         <H1Heading className="mb-4 md:mb-6">
-          From the desk of Ekom Enyong...
+          Blog
         </H1Heading>
         <p className="max-w-2xl text-2xl leading-8">
           Sometimes I write about things. When I do write about things, I write about

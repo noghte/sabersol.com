@@ -15,7 +15,7 @@ export default function Logo({ textSize }: ILogo) {
         textSize ? textSize : "text-xl "
       )}
     >
-      <span className="sr-only">Ekom Enyong</span>
+      <span className="sr-only">Saber Soleymani</span>
       <KommyImage
         src={logoImage}
         width={48}
@@ -23,7 +23,7 @@ export default function Logo({ textSize }: ILogo) {
         alt="Pink circle"
         className="mr-2 h-4 w-4"
       />
-      Ekom Enyong
+      Saber Soleymani
     </KommyLink>
   );
 }

@@ -30,7 +30,7 @@ export default function Footer() {
             <KommyLink
               dottedLine
               animatedUnderline
-              href="https://github.com/ekomenyong/ekomenyong.com"
+              href="https://github.com/noghte/sabersol.com"
             >
               Design and development by me
             </KommyLink>

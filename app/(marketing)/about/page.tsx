@@ -55,7 +55,7 @@ export default function AboutPage() {
   return (
     <Container as="section" className="py-24">
       <H1Heading className="mb-4 animate-in slide-in-from-left duration-500">
-        Hey, I'm Ekom.
+        Hey, I'm Saber.
       </H1Heading>
       <h2 className="h0 font-bold animate-in slide-in-from-right duration-500">
         Nice to meet you 🤝🏾
@@ -75,13 +75,13 @@ export default function AboutPage() {
         </p>
         <div className="flex flex-row space-x-4">
           <span>↳</span>
-          <KommyLink href="https://twitter.com/EkomEnyong">Twitter</KommyLink>
+          <KommyLink href="https://twitter.com/saber_soley">Twitter</KommyLink>
           <span>/</span>
-          <KommyLink href="mailto:hello@ekomenyong.com">Email</KommyLink>
+          <KommyLink href="mailto:postorder@gmail.com">Email</KommyLink>
           <span>/</span>
-          <KommyLink href="https://github.com/ekomenyong">Github</KommyLink>
+          <KommyLink href="https://github.com/noghte">Github</KommyLink>
           <span>/</span>
-          <KommyLink href="https://linkedin.com/in/ekomenyong">LinkedIn</KommyLink>
+          <KommyLink href="https://www.linkedin.com/in/sabersol/">LinkedIn</KommyLink>
         </div>
       </div>
     </Container>
